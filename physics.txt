@@ -1,3 +1,7 @@
 1. A scalar is a quantity which has both magnitude and direction.
 a) true
 b) false
+
+2. What is the SI unit of mass?
+a) kg
+b) pound
