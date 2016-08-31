@@ -2,6 +2,3 @@
 a) true
 b) false
 
-2. What is the SI unit of mass?
-a) kg
-b) pound
